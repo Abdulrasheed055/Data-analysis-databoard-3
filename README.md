@@ -14,6 +14,8 @@ To analyze sales performance, rider demographics, and pricing strategies using S
 - When are the highest demand periods requiring resource optimization?
 - What strategies can improve customer satisfaction during peak times?
 
+  Dashboard interaction <a href="https://github.com/Abdulrasheed055/Data-analysis-databoard-3/blob/main/Screenshot%20(21).png">view dashboard</a>
+
 ## project work flow
 **Project Workflow**
 Data Extraction**:  
@@ -26,3 +28,6 @@ Data Analysis (SQL & Power BI)
    - Conducted in-depth analysis using SQL to query data and Power BI to visualize key performance indicators (KPIs) such as total revenue, profit margin, and sales by time and product.
 Dashboard Creation  
    - Developed an interactive Power BI dashboard to visualize insights, including revenue breakdown, sales trends, and customer segmentation (registered vs. casual users).
+
+## Dashboard design
+ ![dashboard](https://github.com/Abdulrasheed055/Data-analysis-databoard-3/blob/main/Screenshot%20(21).png)
