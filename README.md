@@ -2,7 +2,7 @@
 ##  Project objective
 To analyze sales performance, rider demographics, and pricing strategies using SQL and Power BI. The aim was to derive actionable insights to enhance revenue, improve profitability, and optimize business operations. 
 
-# Question Kpi
+## Question 
 - What is the total revenue generated, and how much profit was earned?
 - What is the overall profit margin for the business?
 - What percentage of customers are registered users?
