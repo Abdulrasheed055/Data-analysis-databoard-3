@@ -1,12 +1,8 @@
-# 🚴 Toman Bike Shop Sales Analysis Dashboard (SQL | Power BI)
+#  Toman Bike Shop Sales Analysis Dashboard (SQL | Power BI)
 
 > **An end-to-end business intelligence project analyzing sales performance, customer behavior, profitability, and pricing strategies using SQL and Power BI.**
 
-![Dashboard](https://github.com/Abdulrasheed055/Data-analysis-databoard-3/blob/main/Screenshot%20(21).png)
-
----
-
-# 📑 Table of Contents
+#  Table of Contents
 
 - Project Overview
 - Business Problem
@@ -26,7 +22,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Toman Bike Shop wanted to better understand its sales performance, customer purchasing behavior, and pricing strategy to support data-driven business decisions.
 
@@ -65,21 +61,21 @@ The objectives of this project were to:
 
 ---
 
-# 📈 Key Performance Indicators (KPIs)
+#  Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |------|-------|
-| 💰 Total Revenue | **$10.0M** |
-| 💵 Total Profit | **$7.03M** |
-| 📊 Profit Margin | **45%** |
-| 👥 Registered Customers | **81.81%** |
-| 🚴 Casual Customers | **18.19%** |
-| ⏰ Peak Sales Period | **Midday & Evening** |
-| 📅 Highest Demand Days | **Friday & Saturday** |
+| Total Revenue | **$10.0M** |
+|  Total Profit | **$7.03M** |
+|  Profit Margin | **45%** |
+|  Registered Customers | **81.81%** |
+|  Casual Customers | **18.19%** |
+|  Peak Sales Period | **Midday & Evening** |
+|  Highest Demand Days | **Friday & Saturday** |
 
 ---
 
-# ❓ Business Questions
+#  Business Questions
 
 This dashboard answers the following business questions:
 
@@ -96,7 +92,7 @@ This dashboard answers the following business questions:
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |--------|----------|
@@ -109,7 +105,7 @@ This dashboard answers the following business questions:
 
 ---
 
-# ⚙️ Project Workflow
+#  Project Workflow
 
 ## 1️⃣ Data Collection
 
@@ -303,32 +299,6 @@ This dashboard enables stakeholders to:
 - Business Storytelling
 
 ---
-
-# 📁 Repository Structure
-
-```text
-📦 Toman-Bike-Shop-Sales-Analysis
-│
-├── 📄 README.md
-├── 📊 Toman Bike Shop.pbix
-├── 📷 Dashboard Screenshot.png
-├── 📂 SQL Scripts
-└── 📂 Dataset
-```
-
----
-
-# 🔮 Future Improvements
-
-- Integrate real-time sales data using SQL Server.
-- Build predictive demand forecasting models.
-- Develop customer lifetime value (CLV) analysis.
-- Create customer churn prediction models.
-- Automate dashboard refresh using Power BI Service.
-
----
-
-# 👨‍💻 Author
 
 **Aminu Abdulrasheed**
 
