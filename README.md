@@ -279,7 +279,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 - SQL
 - Microsoft SQL Server
